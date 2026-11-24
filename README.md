@@ -1,5 +1,9 @@
 <!-- v3 · a7c3e1 · 2026-11-15 · draft for github.com/andrewhopper/andrewhopper -->
 
+<p align="center">
+  <img src="./assets/banner.png" alt="Andrew Hopper: Diving deep on AI that works. Discover → Prototype → Teach → Elevate" width="100%">
+</p>
+
 # Hi, I'm Andrew 👋
 
 **Building AI for human flourishing.**
