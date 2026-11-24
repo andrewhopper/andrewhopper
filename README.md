@@ -1,15 +1,27 @@
-<!-- v3 · a7c3e1 · 2026-11-15 · draft for github.com/andrewhopper/andrewhopper -->
+<!-- v4 · a7c3e1 · 2026-11-24 · aligned to brand guide (claim rules, voice, vocabulary) -->
+
+<p align="center">
+  <img src="./assets/banner.png" alt="Andrew Hopper: Diving deep on AI that works. Discover → Prototype → Teach → Elevate" width="100%">
+</p>
+
+<p align="center">
+  <a href="https://blog.andrewhopper.com"><img src="./assets/card-blog.png" alt="Blog: deep dives on AI that works. Read" width="32%"></a>
+  <a href="https://www.youtube.com/channel/UCqKZKVA7mgls9KECjdVk_7A"><img src="./assets/card-youtube.png" alt="YouTube: visual explainers, applied and theory. Watch" width="32%"></a>
+  <a href="https://blog.andrewhopper.com"><img src="./assets/card-newsletter.png" alt="Newsletter: new posts in your inbox. Subscribe" width="32%"></a>
+</p>
 
 # Hi, I'm Andrew 👋
 
-**Building AI for human flourishing.**
+Sr. Solutions Architect, Startups at AWS, based in Boston. I've advised 500+ startups from pre-seed to IPO across aerospace, satellite, SaaS, consumer tech, and healthcare and life sciences.
 
-Currently working as a Startup Solutions Architect at AWS (Boston). I build systems that help people and organizations think, work, and operate at scale. Founding technical leader at four acquired companies; led global technology at PUMA.
+Before AWS I was a 4x startup CTO: I co-founded Agentmaster, and three of the four companies were later acquired. I also led global marketing technology at PUMA.
+
+Now I'm prototyping AI agent harnesses and teaching what works: 1,000+ GitHub contributions in 2026.
 
 ```
-  idea ──▶ spec ──▶ agents ──▶ review ──▶ ship
-           ▲                     │
-           └──── shared context ◀┘     (protomcp)
+  signal ──▶ spec ──▶ agents ──▶ review ──▶ ship ──▶ users
+             ▲                     │
+             └──── shared context ◀┘     (protomcp)
 ```
 
 ## What I think about
@@ -22,12 +34,12 @@ Currently working as a Startup Solutions Architect at AWS (Boston). I build syst
 
 ## What I'm building
 
-**Agent infrastructure**
-- **protomcp**: shared, event-sourced knowledge graph + memory for every agent and device I use
-- **AgentPrime**: agent cockpit
+**Software factory: agent harnesses**
+- **protomcp**: shared, event-sourced knowledge graph and memory for every agent and device I use
 - **Open Context Protocol**: portable spec for agent environments
 
-**Human-AI surfaces**
+**Cockpits: humans piloting agents**
+- **AgentPrime**: agent cockpit
 - **cview (ClawdView)**: live preview for agent-written HTML, React, SVG, Markdown
 - **GoFlow**: flowchart editor agents edit over MCP
 - **cspec**: keyboard-driven spec and mockup reviewer
@@ -39,7 +51,9 @@ Currently working as a Startup Solutions Architect at AWS (Boston). I build syst
 
 ## Find me
 
-[Blog](https://blog.andrewhopper.com) · [X](https://x.com/andrewhopper) · [LinkedIn](https://linkedin.com/in/andrewhopper)
+[Blog](https://blog.andrewhopper.com) · [YouTube](https://www.youtube.com/channel/UCqKZKVA7mgls9KECjdVk_7A) · [X](https://x.com/andrewhopper) · [LinkedIn](https://linkedin.com/in/andrewhopper)
+
+DMs open. Views my own.
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
