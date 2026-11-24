@@ -4,7 +4,7 @@
 
 **Building AI for human flourishing.**
 
-Currently working as a Startup Solutions Architect at AWS (Boston). I build systems that help people and organizations think, work, and operate at scale. Founding technical leader at four acquired companies; led global technology at PUMA.
+Currently working as a Sr. Startup Solutions Architect at AWS (Boston). I build systems that help people and organizations think, work, and operate at scale. Founding technical leader at four acquired companies; led global technology at PUMA.
 
 ```
   idea ──▶ spec ──▶ agents ──▶ review ──▶ ship
@@ -39,7 +39,7 @@ Currently working as a Startup Solutions Architect at AWS (Boston). I build syst
 
 ## Find me
 
-[Blog](https://blog.andrewhopper.com) · [X](https://x.com/andrewhopper) · [LinkedIn](https://linkedin.com/in/andrewhopper)
+[Blog](https://blog.andrewhopper.com) · [X](https://x.com/andrewhopper) · [LinkedIn](https://linkedin.com/in/andrewhopper) · [Substack](https://substack.com/@andrewhopper) · [Crunchbase](https://www.crunchbase.com/person/andrew-hopper)
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
