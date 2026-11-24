@@ -10,6 +10,10 @@
   <a href="https://blog.andrewhopper.com"><img src="./assets/card-newsletter.png" alt="Newsletter: new posts in your inbox. Subscribe" width="32%"></a>
 </p>
 
+<p align="center">
+  <a href="https://andrewhopper.com/ai-tool-catalog"><img src="./assets/card-catalog.png" alt="AI Tool Catalog: 260+ AI tools, curated, from coding agents to the startup stack. Browse" width="97%"></a>
+</p>
+
 # Hi, I'm Andrew 👋
 
 Sr. Solutions Architect, Startups at AWS, based in Boston. I've advised 500+ startups from pre-seed to IPO across aerospace, satellite, SaaS, consumer tech, and healthcare and life sciences.
@@ -51,7 +55,7 @@ Now I'm prototyping AI agent harnesses and teaching what works: 1,000+ GitHub co
 
 ## Find me
 
-[Blog](https://blog.andrewhopper.com) · [YouTube](https://www.youtube.com/channel/UCqKZKVA7mgls9KECjdVk_7A) · [X](https://x.com/andrewhopper) · [LinkedIn](https://linkedin.com/in/andrewhopper)
+[Blog](https://blog.andrewhopper.com) · [YouTube](https://www.youtube.com/channel/UCqKZKVA7mgls9KECjdVk_7A) · [AI Tool Catalog](https://andrewhopper.com/ai-tool-catalog) · [X](https://x.com/andrewhopper) · [LinkedIn](https://linkedin.com/in/andrewhopper)
 
 DMs open. Views my own.
 
