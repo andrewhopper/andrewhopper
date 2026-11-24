@@ -4,6 +4,12 @@
   <img src="./assets/banner.png" alt="Andrew Hopper: Diving deep on AI that works. Discover → Prototype → Teach → Elevate" width="100%">
 </p>
 
+<p align="center">
+  <a href="https://blog.andrewhopper.com"><img src="./assets/card-blog.png" alt="Blog: deep dives on AI that works. Read" width="32%"></a>
+  <a href="https://www.youtube.com/channel/UCqKZKVA7mgls9KECjdVk_7A"><img src="./assets/card-youtube.png" alt="YouTube: visual explainers, applied and theory. Watch" width="32%"></a>
+  <a href="https://blog.andrewhopper.com"><img src="./assets/card-newsletter.png" alt="Newsletter: new posts in your inbox. Subscribe" width="32%"></a>
+</p>
+
 # Hi, I'm Andrew 👋
 
 Sr. Solutions Architect, Startups at AWS, based in Boston. I've advised 500+ startups from pre-seed to IPO across aerospace, satellite, SaaS, consumer tech, and healthcare and life sciences.
@@ -45,7 +51,7 @@ Now I'm prototyping AI agent harnesses and teaching what works: 1,000+ GitHub co
 
 ## Find me
 
-[Blog](https://blog.andrewhopper.com) · [X](https://x.com/andrewhopper) · [LinkedIn](https://linkedin.com/in/andrewhopper)
+[Blog](https://blog.andrewhopper.com) · [YouTube](https://www.youtube.com/channel/UCqKZKVA7mgls9KECjdVk_7A) · [X](https://x.com/andrewhopper) · [LinkedIn](https://linkedin.com/in/andrewhopper)
 
 DMs open. Views my own.
 
